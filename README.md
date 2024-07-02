@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://i.ibb.co/Q8MgTCY/El2-Agyr5-U0-Jb-UUCe2d1i-SG1-LPcq-Kwp31v-Yurn9-Hd-Axh-Sw9-Xzba1-IXDL-DIy-KIaj-ONHc78sa-S-Wr-YZc-K3x.png'); padding: 20px; border-radius: 10px; background-size: cover; background-repeat: no-repeat; background-position: center;">
+<div align="center" style="background: linear-gradient(83deg, rgba(252,4,92,1) 0%, rgba(9,9,121,1) 50%, rgba(7,153,182,1) 100%); padding: 20px; border-radius: 10px; color: white;">
 
 # Hi there, I'm Imran Hossain 👋
 
@@ -78,10 +78,4 @@ Thanks for visiting my profile! Feel free to explore my repositories and get in 
 
 </div>
 
-<.. <style>
-body {
-background: rgb(252,4,92);
-background: linear-gradient(83deg, rgba(252,4,92,1) 0%, rgba(9,9,121,1) 50%, rgba(7,153,182,1) 100%);
-}
-</style>
-..>
+
